@@ -2,7 +2,7 @@
 
 An interactive web application built with Python and Streamlit to automatically analyze, visualize, and filter any CSV dataset. This tool allows users to upload their data and instantly generate insights without writing a single line of code.
 
-**➡️ [Try the Live Demo Here!](YOUR_STREAMLIT_APP_URL_HERE)** 
+**➡️ [Try the Live Demo Here!]([YOUR_STREAMLIT_APP_URL_HERE](https://csv-data-analyzer-app-fwqfcodf6bs3phmsj9s6bk.streamlit.app/))** 
 *(Note: Replace with your actual Streamlit app URL after deployment)*
 
  
